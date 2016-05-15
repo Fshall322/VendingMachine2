@@ -12,7 +12,7 @@ namespace VendingMachine
         private double _productPrice;
         private int _productCount;
 
-        public Funyuns() // constructor
+        public Funyuns() // constructor bb
         {
             _productName = "Funyuns";
             _productPrice = 1.00;
